@@ -1,0 +1,20 @@
+C:\Users\Minons\Desktop\Bai Toan Dong Nuoc\bin\Debug\DongNuoc.exe.config
+C:\Users\Minons\Desktop\Bai Toan Dong Nuoc\bin\Debug\DongNuoc.exe
+C:\Users\Minons\Desktop\Bai Toan Dong Nuoc\bin\Debug\DongNuoc.pdb
+C:\Users\Minons\Desktop\Bai Toan Dong Nuoc\obj\Debug\DongNuoc.csprojResolveAssemblyReference.cache
+C:\Users\Minons\Desktop\Bai Toan Dong Nuoc\obj\Debug\DongNuoc.Form1.resources
+C:\Users\Minons\Desktop\Bai Toan Dong Nuoc\obj\Debug\DongNuoc.Properties.Resources.resources
+C:\Users\Minons\Desktop\Bai Toan Dong Nuoc\obj\Debug\DongNuoc.csproj.GenerateResource.Cache
+C:\Users\Minons\Desktop\Bai Toan Dong Nuoc\obj\Debug\DongNuoc.exe
+C:\Users\Minons\Desktop\Bai Toan Dong Nuoc\obj\Debug\DongNuoc.pdb
+C:\Users\Minons\Desktop\Đong nước\bin\Debug\DongNuoc.exe.config
+C:\Users\Minons\Desktop\Đong nước\obj\Debug\DongNuoc.exe
+C:\Users\Minons\Desktop\Đong nước\obj\Debug\DongNuoc.pdb
+G:\Document\HK5\Đong nước\Đong nước\bin\Debug\DongNuoc.exe.config
+G:\Document\HK5\Đong nước\Đong nước\obj\Debug\DongNuoc.exe
+G:\Document\HK5\Đong nước\Đong nước\obj\Debug\DongNuoc.pdb
+G:\Document\HK5\Đong nước\Đong nước\bin\Debug\DongNuoc.exe
+G:\Document\HK5\Đong nước\Đong nước\bin\Debug\DongNuoc.pdb
+G:\Document\HK5\Đong nước\Đong nước\obj\Debug\DongNuoc.Form1.resources
+G:\Document\HK5\Đong nước\Đong nước\obj\Debug\DongNuoc.Properties.Resources.resources
+G:\Document\HK5\Đong nước\Đong nước\obj\Debug\DongNuoc.csproj.GenerateResource.Cache

@@ -1,0 +1,3 @@
+G:\Document\HK5\Đong nước\Đong nước\obj\Release\DongNuoc.Form1.resources
+G:\Document\HK5\Đong nước\Đong nước\obj\Release\DongNuoc.Properties.Resources.resources
+G:\Document\HK5\Đong nước\Đong nước\obj\Release\DongNuoc.csproj.GenerateResource.Cache
